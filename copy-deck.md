@@ -105,6 +105,19 @@ You want AI that we can trust? Let's build it together.
 
 [Partner with Prova] · or write to partner@tryprova.ai
 
+**Prewritten email** *(opens when someone clicks "Partner with Prova"; goes to partner@tryprova.ai. Line breaks are kept.)*
+
+Subject: Partnering with Prova
+
+```
+Hello Prova,
+
+I'd like to talk about working together.
+
+Who I am:
+What I'm interested in: 
+```
+
 ## 9. Footer
 
 Designed by Prova in Europe · Partner · Work with us · © 2026 Prova.ai
