@@ -110,12 +110,13 @@ You want AI that we can trust? Let's build it together.
 Subject: Partnering with Prova
 
 ```
-Hello Prova,
+Dear Provers,
 
-I'd like to talk about working together.
+I'd like to get in touch with you!
 
 Who I am:
-What I'm interested in: 
+What's on my mind:
+How you can reach me:
 ```
 
 ## 9. Footer
