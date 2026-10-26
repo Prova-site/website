@@ -45,17 +45,17 @@ What we learn, carried into the models themselves, so responsibility grows at th
 For model builders and product teams
 
 **Studio**
-Making responsible AI something people want to live with, not something they are told to accept.
-Training the next generation of AI thinkers, and those living through the transition
+Responsibility in AI starts with how we use it. With Studio we turn the focus from product design to product behavior to product users. 
+Training the next generation of AI thinkers
 
 ## 5. The name
 
 **H2:** Why we're called Prova
 
-In Italian, *prova* means a test, a proof and a rehearsal. Today AI is shipped first and questioned afterwards. We think it should be rehearsed and iterated right from the start, with real data, real rules and the people it will affect, while changing course is still cheap. 
+In Italian, *prova* means a test, a proof and a rehearsal. Today AI is shipped first and questioned later. We think AI should be rehearsed and iterated right from the start, with real data, real rules and the people it will affect, while changing course is still cheap. 
 
 Caption: How AI reaches us today → **Ship**
-Caption: How it should → **Prova**
+Caption: How it should reach us instead → **Prova**
 
 ## 6. Work with Prova
 
@@ -69,7 +69,7 @@ Caption: How it should → **Prova**
 - Test policy against new products as they go to market: **Spin**
 
 *For AI Builders*
-- Test a product or use case in a Spin before (or even after) launch: **Spin**
+- Test a product or use case in a Spin before (or after) launch: **Spin**
 - Leave with evidence that you can show regulators and customers, for example under the EU AI Act: **Spin**
 - Early access to our learnings and method, for your own models: **Air**
 
@@ -92,16 +92,16 @@ Have you ever dreamt of a world in which AI at scale comes with responsibility a
 
 We have learned to scale AI. What we have not scaled is the humane part. It stays siloed and, at best, niche.
 
-The people who use AI are not just users. They are citizens and whole human beings, and that is who we design for.
+The people who use AI are not just users. They are citizens and human beings, and this is who we design for.
 
 AI is what we make of it. We focus on what the world with AI can become, going beyond what it already is.
 
-Verena Kontschieder
+Dr. Verena Kontschieder
 Co-founder, Prova.ai
 
 ## 8. Call to action
 
-If you want AI the world can trust, let's build it together.
+You want AI that we can trust? Let's build it together.
 
 [Partner with Prova] · or write to partner@tryprova.ai
 
