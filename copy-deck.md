@@ -96,6 +96,10 @@ The people who use AI are not just users. They are citizens and human beings, an
 
 AI is what we make of it. We focus on what the world with AI can become, going beyond what it already is.
 
+The idea is not new. Read my first ever blogpost from 2017 [here](https://gracefullypolitics.com/journal/2017/11/18/avoiding-the-policy-crash-public-sector-rinnovation-towards-a-design-thought-european-union).
+*(Links are written as [word](address): the word in brackets is what's clickable on the page.)*
+
+
 Dr. Verena Kontschieder
 Co-founder, Prova.ai
 
