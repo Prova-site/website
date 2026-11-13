@@ -100,7 +100,7 @@ The idea is not new. Read my first ever blogpost from 2017 [here](https://gracef
 *(Links are written as [word](address): the word in brackets is what's clickable on the page.)*
 
 
-Dr. Verena Kontschieder
+Verena
 Co-founder, Prova.ai
 
 ## 8. Call to action
